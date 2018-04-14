@@ -1,0 +1,137 @@
+.login {
+    font-size: 14px;
+}
+
+.titre {
+    text-align: center;
+    font-size: 50px;
+}
+
+.field {
+    width: auto;
+}
+
+body {
+	
+    font-family: Arial;
+    color: lime;
+    font-size: 16px;
+    background-image: url("biblio1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+
+}
+
+.logo {
+    font-size: 100px;
+    font-weight: bolder;
+    letter-spacing: -6px;
+    color: #222;
+    margin: 20px 30px;
+}
+
+.logo.number {
+    color: #222;
+    opacity: 0.1;
+}
+
+.navigation {
+    margin-left: 33px;
+    margin-top: 11px;
+}
+.navigation a {
+    display: inline-block;
+    padding: 8px 8px;
+    text-decoration: none;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: sans-serif;
+    border: 1px solid #222;
+    background: orange;
+    color: #fff;
+    margin: 1px
+}
+
+.navigation a:hover {
+    color: #222;
+    background: red;
+}
+
+.container {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 33px;
+}
+
+.container a {
+    color: #222;
+}
+
+.container table {
+    font-size: 11px;
+    margin-top: 20px;
+}
+
+.container table thead td {
+    background-color: #f5f5f5;
+    padding: 4px 10px;
+}
+
+.container table tbody td {
+    padding: 4px 10px;
+}
+
+.container .box {
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+    margin-top: 30px;
+
+}
+
+.container input {
+    background-color: #f5f5f5;
+    border: 0;
+    padding: 5px 10px;
+}
+
+.container input[type="submit"] {
+    background-color: #ccc;
+    cursor: pointer;
+}
+
+.container input[type="submit"]:hover {
+    background-color: #222;
+    color: #fff;
+}
+
+.container button {
+    background-color: #ccc;
+    border: 0;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.container button:hover {
+    background-color: #222;
+    color: #fff;
+}
+
+table, th,td {
+     width:auto;     
+ }    
+ 
+th,td {
+     border-bottom: 2px solid #ddd;
+     color: white;
+
+}     
+ 
+tr:hover {
+     background-color: red;
+ }
+
+tr{
+	background-color: green;
+}
